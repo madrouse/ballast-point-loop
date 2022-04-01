@@ -1,0 +1,11 @@
+Zipped ArcGIS Pro project found here:
+
+https://drive.google.com/drive/folders/1DUThJmpI7nIurIQ8fh8A6EYZTsgEVChP?usp=sharing
+
+CONTAINS:
+1) Required ArcGIS data (.gdb, index, .aprx, .tbx, ImportLog)
+2) 4 pre-made layouts with data
+  a) 3D layout showing trail and hazards, with elevation visualized by ground color gradient
+  b) Study area map of Catalina Island imagery with trail designated in red
+  c) 2D layout with hazards visualized by severity on trail
+  d) 2D layout with hazards visualized by type on trail
