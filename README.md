@@ -12,3 +12,7 @@ Collected:
   1) 3D LINE FEATURE - Ballast Point Loop Trail, streamed data counterclockwise every 2 feet by attaching
     GNSS receiver to backpack
   2) HAZARD POINT FEATURES - hazards identified on trail, with XYZ locational data
+
+LINK TO ARCGIS PRO PROJECT contains zipped full ArcGIS Pro project file with 4 pre-made layouts included
+
+LAYER files contain individual feature layers to download
